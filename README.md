@@ -35,12 +35,12 @@ The dashboards were built based on a detailed user story covering KPIs, trends, 
 ```
 tableau-sales-dashboard-project/
 │
-├── datasets/                        # CSV files used in the dashboards
-│
 ├── assets/
 │ ├── icons/                         # Icons used in the dashboards
 │ ├── mockups/                       # Design and container mockups
 │ └── dashboard-preview.gif          # Animated preview of dashboards
+│
+├── datasets/                        # CSV files used in the dashboards
 │
 ├── docs/
 │ └── user-story.md                  # Complete requirements specification
